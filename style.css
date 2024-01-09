@@ -1,1 +1,106 @@
+/* Regole di Reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+/* imposto la viewport per mobile*/
+.big-container{
+    max-width: 480px;
+    
+    margin-left: auto;
+    margin-right: auto;
+    
+}
 
+#nav-container{
+    background-color:rgb(0, 132, 253) ;
+    display: flex;
+    gap: 350px;
+    padding-left: 25px;
+    padding-right: 25px;
+    
+}
+
+
+
+/* prima section */
+.first-section{
+    margin-top: 40px;
+}
+
+#frst-card{
+    
+    background-color: white;
+    max-width: 480px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.cards{
+    background-color: white;
+}
+/* fine prima section */
+
+
+
+/* seconda section */
+.scnd-up{
+    background-color: rgb(151, 146, 228);
+}
+
+.scnd-down{
+    background-color: rgb(151, 146, 228);
+}
+/* fine seconda section */
+
+
+/* inizio testimonial section */
+
+.testimonial-up{
+    background-color: white ;
+}
+
+.t-card{
+    background-color: white;
+}
+/* fine testimonial section */
+
+/* inizio benefits */
+.benefits-up{
+    background-color: rgb(151, 146, 228);
+}
+.benefits-down{
+    background-color: rgb(151, 146, 228);
+}
+/* fine benefits */
+
+/* inizio about us */
+
+.aus-up{
+    background-color: white;
+}
+
+.aus-down{
+    background-color: white;
+}
+
+/* fine about us */
+
+
+/* Inizio last section */
+
+.last-up{
+   background-color: rgb(151, 146, 228);
+}
+
+.last-down{
+    background-color: rgb(151, 146, 228);
+}
+/* fine last section */
+
+/* inizio footer */
+.footer{
+    background-color: rgb(51, 51, 51);
+}
+/* fine footer */
