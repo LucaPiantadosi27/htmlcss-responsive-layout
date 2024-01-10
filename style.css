@@ -44,7 +44,7 @@
 /* prima section */
 .first-section{
     margin-top: 20px;
-    max-width: 112px;
+    max-width: 100%;
     margin-left: auto;
     margin-right: auto;
     background-color:white;
@@ -54,12 +54,12 @@
 #frst-card{
     
     background-color: rgb(181, 221, 255);
-    max-width: 112px;
+    max-width: 100%;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 12px;
     padding-top: 15px;
-    
+    border-radius: 12px;
 
 }
 #frst-title{
@@ -71,7 +71,7 @@
     margin-right: auto;
 }
 #frst-text{
-    width: 90px;
+    width: 50%;
     height: 45px;
     border: dotted green;
     margin-top: 14px;
@@ -115,6 +115,7 @@
     margin-right: auto;
     margin-bottom: 12px;
     background-color:rgb(181, 221, 255);
+    border-radius: 12px;
 }
 
 .image{
@@ -146,7 +147,6 @@
     margin-right: auto;
     
 }
-
 
 /* fine prima section */
 
