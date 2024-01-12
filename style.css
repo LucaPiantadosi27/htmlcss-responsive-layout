@@ -103,3 +103,14 @@
     width: calc(100% - 20px);
     margin: 10px;
  }
+ .get-started{
+    text-align: center;
+    background-color: #9792e4 ;
+    color: white;
+ }
+
+ footer{
+    background-color: #333333;
+    color: white;
+    text-align: center;
+ }
