@@ -36,7 +36,11 @@
     width: 100%;
     height: 100px;
     background-color: lightblue;
-    margin: 10px;
+    border-radius: 15px;
+}
+
+.col-1{
+    border-radius: 15px;
 }
 
 .strategic {
@@ -67,6 +71,10 @@
 .work-with-us{
     background-color: #9792e4;
 
+}
+.benefits-row{
+    display: flex;
+    flex-wrap: wrap;
 }
 .benefit-col-1{
     text-align: center;
